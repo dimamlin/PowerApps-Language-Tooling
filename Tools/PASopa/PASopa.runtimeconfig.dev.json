@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Administrator\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Administrator\\Downloads\\PowerApps-Language-Tooling-master (1)\\PowerApps-Language-Tooling-master\\pkg"
+    ]
+  }
+}
